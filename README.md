@@ -3,6 +3,7 @@
 
 - 👨🏻‍💻 I'm currently <strong>training on my coding skills</strong>
 - 📫 You can reach me at **sal.strangio@gmail.com**
+- 👨🏻‍🎓 I'm a Le Wagon Alumni https://www.lewagon.com/milan
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
