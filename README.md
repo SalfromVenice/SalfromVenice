@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer from Venice, Italy🇮🇹</h3>
 
 - 👨🏻‍💻 I'm currently <strong>training on my coding skills</strong>
-- 📫 How to reach me **sal.strangio@gmail.com**
+- 📫 You can reach me at **sal.strangio@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
