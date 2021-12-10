@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Salvatore</h1>
-<h3 align="center">A passionate full-stack developer from Italy</h3>
+<h3 align="center">A passionate full-stack developer from Venice, Italy🇮🇹</h3>
 
+- 👨🏻‍💻 I'm currently <strong>training on my coding skills</strong>
 - 📫 How to reach me **sal.strangio@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
