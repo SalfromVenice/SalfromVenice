@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Salvatore</h1>
-<h3 align="center">A passionate full-stack developer from Venice, Italy🇮🇹</h3>
+<h1 align="center">👋 Hi, I'm Salvatore!</h1>
+<h3 align="center">Welcome to my GitHub profile! I'm a frontend developer from Venice Italy🇮🇹, passionate about React, TypeScript, and Tailwind CSS. I love building clean, accessible, and high-performance user interfaces.</h3>
 
-- 👨🏻‍💻 I'm currently <strong>training on my coding skills</strong>
 - 📫 You can reach me at **sal.strangio@gmail.com**
 - 👨🏻‍🎓 I'm a Le Wagon Alumni https://www.lewagon.com/milan
 
@@ -19,3 +18,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salfromvenice&show_icons=true&locale=en" alt="salfromvenice" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salfromvenice&" alt="salfromvenice" /></p>
+
+<hr />
+<p>✨ Always learning, always building! ✨</p>
