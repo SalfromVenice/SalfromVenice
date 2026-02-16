@@ -9,7 +9,7 @@ with a growing interest in backend architecture and system design.
 
 ### 🌍 About Me
 
-- 🇯🇵 Japanese student and interested in working internationally
+- 🇯🇵 Learning Japanese and interested in working internationally
 - 🌱 I’m motivated by projects that create meaningful, positive impact
 - 🏃 Into running, snowboarding, and nordic skiing — currently aiming to learn surfing 🌊
 
