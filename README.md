@@ -42,5 +42,5 @@ Golang · Ruby on Rails · REST APIs
 ---
 
 <p align="center">
-Building software that stays understandable over time.
+Exploring ways to create software that helps people and communities.
 </p>
