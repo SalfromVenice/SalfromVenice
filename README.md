@@ -36,8 +36,8 @@ Golang · Ruby on Rails · REST APIs
 
 ### 📫 Contact
 
-- 📧 sal.strangio@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/salvatore-strangio  
+- 📧 sal.strangio@protonmail.com
+- 💼 LinkedIn: https://linkedin.com/in/salvatore-strangio
 
 ---
 
